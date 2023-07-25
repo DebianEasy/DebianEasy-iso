@@ -1,0 +1,14 @@
+desktop-base
+fonts-noto
+fonts-noto-cjk
+thin-provisioning-tools
+dbus-user-session
+systemd-timesyncd
+command-not-found
+neofetch
+aptitude
+nala
+gvfs
+firmware-edge-installer
+debianeasy-repo
+

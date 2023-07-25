@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "I: running $0"
+apt -y purge exim4-base nfs-common rpcbind nvidia-tesla-470-kernel-support nvidia-tesla-470-alternative nvidia-modprobe nvidia-kernel-common nvidia-installer-cleanup glx-alternative-nvidia raspi-firmware

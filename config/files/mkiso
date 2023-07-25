@@ -1,0 +1,5 @@
+#!/bin/bash
+cp -f ./auto/iso ./auto/config
+lb clean
+lb config
+lb build

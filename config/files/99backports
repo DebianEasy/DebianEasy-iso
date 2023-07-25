@@ -1,0 +1,17 @@
+# APT pinning preferences - https://wiki.debian.org/AptPreferences
+
+##### Kernel / firmware
+
+Package: linux-image-*
+Pin: release a=bookworm-backports
+Pin-Priority: 600
+
+Package: linux-headers-*
+Pin: release a=bookworm-backports
+Pin-Priority: 600
+
+Package: firmware-*
+Pin: release a=bookworm-backports
+Pin-Priority: 600
+
+
